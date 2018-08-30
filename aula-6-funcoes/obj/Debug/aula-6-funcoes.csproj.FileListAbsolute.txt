@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-6-funcoes\aula-6-funcoes\bin\Debug\aula-6-funcoes.exe.config
+C:\Users\nicol\source\repos\aula-6-funcoes\aula-6-funcoes\bin\Debug\aula-6-funcoes.exe
+C:\Users\nicol\source\repos\aula-6-funcoes\aula-6-funcoes\bin\Debug\aula-6-funcoes.pdb
+C:\Users\nicol\source\repos\aula-6-funcoes\aula-6-funcoes\obj\Debug\aula-6-funcoes.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-6-funcoes\aula-6-funcoes\obj\Debug\aula-6-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-6-funcoes\aula-6-funcoes\obj\Debug\aula-6-funcoes.exe
+C:\Users\nicol\source\repos\aula-6-funcoes\aula-6-funcoes\obj\Debug\aula-6-funcoes.pdb
